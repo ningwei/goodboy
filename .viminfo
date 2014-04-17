@@ -1,0 +1,874 @@
+# 这个 viminfo 文件是由 Vim 7.2 所产生。
+# 如果想要自行修改请特别小心！
+
+# 文件被写的时候 ‘encoding’ 的值
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# 上个 Search 图案：
+~MSle0~/msmsir_irhw_di
+
+# 上个 替换 Search 图案：
+~MSle0&\**
+
+# 最后替换的字符串
+$
+
+# 命令行 历史记录 (从新到旧)：
+:q!
+:q
+:wq
+:Q
+:wa
+:cs
+:+475
+:sc
+:%s/\**/ /g
+:%s /\/\**/ /g
+:%s /Corpor/ /g
+:%s // /g
+:%s //\**/ /g
+:%s//\**/ /g
+:%s//\**//g
+:%s///\**//g
+:q:q:q:q:q
+::q
+:700
+:379
+:357
+:qw
+:wqa
+:vsp ./init.qcom.usb.rc.LEF2
+:vsp ./init.qcom.usb.rc.LEF
+:36,171 y
+:36,160 d
+:vsp ./init.qcom.usb.sh.LEF
+:vsp ./init.qcom.usb.sh.LEF2
+:%s /045F/0482/g
+:%s /0458/0480/g
+:%s /045A/0481/g
+:%s /045E/0485/g
+:298,320 d
+:%s /045C/0483/g
+:%s /0409/05C6/g
+:35,370 y
+:35,627 d
+:q1
+:vsp ~/ning/task/bakconfig/LEF2_apps_proc_cp_rename.sh
+:vsp ~/ning/task/usbconfig/lef_apps_proc_cp_rename.sh
+:%s /0458/9025/g
+:%s 0409/05C6/g
+:113,153d
+:55,175y
+:46,575d
+:vsp ~/ning/task/usbconfig/init.qcom.usb.rc_FACT.LEF
+:WQ
+:       setprop persist.sys.usb.config diag
+:   * ) 
+:   ;;
+:       #USB persist config exists, do nothing
+:   "mass_storage" | "mass_storage,diag" | "mass_storage,adb" | "mass_storage,adb,diag") 
+:cd
+:1q
+:qq
+:1589
+:w !sudo tee %
+:w
+:215
+:%s /0409/05c6/g
+:2428
+:222
+:2427
+:kill
+:c
+:,sg
+:Qq
+:2460
+:vsp f_diag.c
+:vsp f_adb.c
+:vsp ~/source/mango/ncpu/boot_images/core/wiredconnectivity/qhsusb/build/SConscript
+:47,58 y
+:http://ubuntu.csie.ntu.edu.tw/ubuntu/ lucid main restricted universe multiverse
+:http://archive.ubuntu.com/ubuntu/ lucid-backports main restricted universe multiverse
+:http://archive.ubuntu.com/ubuntu/ lucid-proposed main restricted universe multiverse
+:http://archive.ubuntu.com/ubuntu/ lucid-updates main restricted universe multiverse
+:http://archive.ubuntu.com/ubuntu/ lucid-security main restricted universe multiverse
+:http://archive.ubuntu.com/ubuntu/ lucid main restricted universe multiverse
+:1,54 d
+:vsp kernel_52002.txt
+:vsp ~/source/lef/8064/LINUX/android/system/core/rootdir/ueventd.rc
+:q:Q
+:2728
+:vsp logcat_LEF_IrDA.txt
+:vsp logcatno2.txt
+:vsp ~/source/mango/acpu/LINUX/android/bootable/recovery/recovery.cpp
+:2134
+:580
+:vsp  logcat_n.txt
+:vsp kernel_y.txt
+:vsp kernel1.txt
+:vsp logcat2.txt
+:vsp kmsg_LEF_IrDA.txt
+:vsp kmsg_LEF2_IrDA.txt
+:3024
+:vsp logcat_lef_4.txt
+:vsp logcat_lef2.txt
+:vsp logcatreci3.txt
+:vsp logcatreci2.txt
+
+# 查找字符串 历史记录 (从新到旧)：
+?/msmsir_irhw_di
+?/irdrv1
+?/err
+?/usb
+?/mass_st
+? \<irdrv1_read\>
+? \<irdrv1\>
+? \<MISC_DYNAMIC_MINOR\>
+? \<ttyHS2\>
+?/adb
+? \<property_get\>
+? \<PROPERTY_VALUE_MAX\>
+? \<usb_conf\>
+? \<diagpkt_subsys_header_type\>
+?/FEATURE_NCMC_USB
+?/qhsusb_fd_hdlc.c
+? \<MAX_CONFIG_INTERFACES\>
+? \<adb_interface_desc\>
+?/NEC*%s
+?/aaaaaaaaa
+? \**
+? \/\**
+? Corpor
+? \<NEC\>
+?/__init
+?/init
+? \<qhsusb_str_product\>
+?/feature_ncmc_usb
+?/mass_storage
+?/ningwei
+? \<Corp\>
+?/diag_function_bind_config
+? \<diag_update_pid_and_serial_num\>
+?/700
+? \<ch\>
+? \<USB_DT_SS_ENDPOIN_COMP\>
+? \<diag_context\>
+? \<priv\>
+? \<USB_CLASS_PER_INTERFACE\>
+? \<NCMC_USB_PID_DEFAULT\>
+?/feature_ncm
+?/feature_ncmc_s
+?/NEC Cor
+?/NEC Corp.
+?/count
+?/NCMC_USB_MANUFACTURER_NAME
+?/config_feature_ncmc_us
+?/config_ncmc
+?/CONFIG_NCMC_
+? \<adb_string_table\>
+? \<adb_strings\>
+? \<adb_string_defs\>
+? \<INTERFACE_STRING_INDEX\>
+?/usb_string_id
+?/INTERFACE_STRING_INDEX
+? \<NCMC_USB_IF_DESC_NAME_ADB\>
+? \<index\>
+?/CONFIG_FEATURE_NCMC
+?/CONFIG_FEATURE_NCMC_LEF
+?/USB
+?/diag_
+? \<mass_storage\>
+?/diag_mdm
+? \<0482\>
+? 045F
+? \<045F\>
+? \<ncmc_serial\>
+? \<0480\>
+? 0458
+? \<Tethering\>
+? 045A
+?/teth
+? \<DEBUG\>
+? 045E
+?/debug
+? \<PTP\>
+? \<0483\>
+? \<mtp\>
+? 045C
+?/ptp
+? 0409
+?/Teth
+?/modem
+?/modern
+?/mass
+?/mtp
+? \<acm_smd\>
+?/HID
+?/hid
+?/Thth
+?/MTP
+?/CopyIf
+? \<TARGET_BUILD_VARIANT\>
+? \<target_build\>
+? \<STR\>
+?/mk
+?/MK
+?/device_crea
+? \<process_kernel_cmdline\>
+?/cmdline
+
+# 表达式 历史记录 (从新到旧)：
+
+# 输入行 历史记录 (从新到旧)：
+
+# 输入行 历史记录 (从新到旧)：
+
+# 寄存器:
+"0	CHAR	0
+	_
+""1	LINE	0
+	./drivers/net/irda/cscope.out:84501:CONFIG_FEATURE_NCMC_IRDA
+"2	LINE	0
+	./drivers/net/irda/cscope.out:84259:CONFIG_FEATURE_NCMC_IRDA
+"3	LINE	0
+	./drivers/net/irda/cscope.out:84233:CONFIG_FEATURE_NCMC_IRDA
+"4	LINE	0
+	./drivers/net/irda/cscope.out:84075:CONFIG_FEATURE_NCMC_IRDA
+"5	LINE	0
+	./drivers/net/irda/cscope.out:83491:CONFIG_FEATURE_NCMC_IRDA
+"6	LINE	0
+	./drivers/net/irda/cscope.out:83469:CONFIG_FEATURE_NCMC_IRDA
+"7	LINE	0
+	./drivers/net/irda/cscope.out:83383:CONFIG_FEATURE_NCMC_IRDA
+"8	LINE	0
+	./drivers/net/irda/cscope.out:82491:CONFIG_FEATURE_NCMC_IRDA
+"9	LINE	0
+	./drivers/net/irda/cscope.out:82469:CONFIG_FEATURE_NCMC_IRDA
+"i	CHAR	0
+	uuuuuuuuuuuuuuuuuuuuuu
+"q	CHAR	0
+	:q;
+"-	CHAR	0
+	_
+
+# 文件标记:
+'0  1  28  /etc/resolv.conf
+'1  1  0  /etc/exports
+'2  1  0  /etc/network/interfaces
+'3  12  32  /etc/NetworkManager/nm-system-settings.conf
+'4  2348  0  ~/ning/task/FRY-JB-PR1-00275/usb.txt
+'5  1200  0  ~/ning/task/FRY-JB-PR1-00275/usb.txt
+'6  32  0  ~/ning/task/FRY-JB-PR1-00275/init.logcat.sh
+'7  33  0  ~/ning/task/FRY-JB-PR1-00275/init.logcat.sh
+'8  1991  0  ~/ning/task/FRY-JB-PR1-00275/usb.txt
+'9  1784  0  ~/ning/task/FRY-JB-PR1-00275/usb.txt
+
+# 跳转列表 (从新到旧):
+-'  1  28  /etc/resolv.conf
+-'  1  0  /etc/exports
+-'  1  0  /etc/network/interfaces
+-'  12  32  /etc/NetworkManager/nm-system-settings.conf
+-'  1  0  /etc/NetworkManager/nm-system-settings.conf
+-'  2348  0  ~/ning/task/FRY-JB-PR1-00275/usb.txt
+-'  1200  0  ~/ning/task/FRY-JB-PR1-00275/usb.txt
+-'  1  0  ~/ning/task/FRY-JB-PR1-00275/usb.txt
+-'  32  0  ~/ning/task/FRY-JB-PR1-00275/init.logcat.sh
+-'  3  0  ~/ning/task/FRY-JB-PR1-00275/__Tag_List__
+-'  2  0  ~/ning/task/FRY-JB-PR1-00275/__Tag_List__
+-'  33  0  ~/ning/task/FRY-JB-PR1-00275/init.logcat.sh
+-'  6  0  ~/ning/task/FRY-JB-PR1-00275/__Tag_List__
+-'  5  0  ~/ning/task/FRY-JB-PR1-00275/__Tag_List__
+-'  1  0  ~/ning/task/FRY-JB-PR1-00275/init.logcat.sh
+-'  1991  0  ~/ning/task/FRY-JB-PR1-00275/usb.txt
+-'  1784  0  ~/ning/task/FRY-JB-PR1-00275/usb.txt
+-'  1774  0  ~/ning/task/FRY-JB-PR1-00275/usb.txt
+-'  780  0  ~/ning/task/FRY-JB-PR1-00275/usb_logcat.txt
+-'  1  0  ~/ning/task/FRY-JB-PR1-00275/usb_logcat.txt
+-'  1541  0  ~/ning/task/FRY-JB-PR1-00275/usb.txt
+-'  1407  0  ~/ning/task/FRY-JB-PR1-00275/usb.txt
+-'  961  0  ~/ning/task/FRY-JB-PR1-00275/usb_logcat.txt
+-'  548  0  ~/ning/task/FRY-JB-PR1-00275/usb_logcat.txt
+-'  29  0  ~/ning/task/FRY-JB-PR1-00275/usb.txt
+-'  72  0  ~/ning/task/FRY-JB-PR1-00275/usb.txt
+-'  1  0  ~/ning/task/FRY-JB-PR1-00275/usb
+-'  1865  7  ~/ning/task/FRY-JB-PR1-00275/usb.txt
+-'  102  27  ~/ning/task/FRY-JB-PR1-00275/usb.txt
+-'  166  69  ~/ning/task/FRY-JB-PR1-00275/logcat1.txt
+-'  1  0  ~/ning/task/FRY-JB-PR1-00275/logcat1.txt
+-'  43  51  ~/ning/task/AD13-2nd-PR1-00188/config_feature_ncmc_irda.txt
+-'  61  0  ~/ning/task/AD13-2nd-PR1-00188/config_feature_ncmc_irda.txt
+-'  1  0  ~/ning/task/AD13-2nd-PR1-00188/config_feature_ncmc_irda.txt
+-'  1867  0  ~/source/lef/8064/LINUX/android/kernel/drivers/net/irda/msm-sir.c
+-'  93  4  ~/source/lef/8064/LINUX/android/kernel/drivers/net/irda/__Tag_List__
+-'  2  0  ~/source/lef/8064/LINUX/android/kernel/drivers/net/irda/__Tag_List__
+-'  1677  4  ~/source/lef/8064/LINUX/android/kernel/drivers/net/irda/msm-sir.c
+-'  183  4  ~/source/lef/8064/LINUX/android/kernel/drivers/net/irda/__Tag_List__
+-'  99  0  ~/source/lef/8064/LINUX/android/kernel/drivers/net/irda/__Tag_List__
+-'  1  0  ~/source/lef/8064/LINUX/android/kernel/drivers/net/irda/msm-sir.c
+-'  146  93  ~/Downloads/IrDA_log/kmsg_LEF2_IrDA.txt
+-'  1153  56  ~/Downloads/IrDA_log/kmsg_LEF2_IrDA.txt
+-'  1140  82  ~/Downloads/IrDA_log/kmsg_LEF2_IrDA.txt
+-'  1138  82  ~/Downloads/IrDA_log/kmsg_LEF2_IrDA.txt
+-'  1029  80  ~/Downloads/IrDA_log/kmsg_LEF2_IrDA.txt
+-'  1016  106  ~/Downloads/IrDA_log/kmsg_LEF2_IrDA.txt
+-'  1009  80  ~/Downloads/IrDA_log/kmsg_LEF2_IrDA.txt
+-'  1005  72  ~/Downloads/IrDA_log/kmsg_LEF2_IrDA.txt
+-'  920  80  ~/Downloads/IrDA_log/kmsg_LEF2_IrDA.txt
+-'  835  53  ~/Downloads/IrDA_log/kmsg_LEF2_IrDA.txt
+-'  501  40  ~/Downloads/IrDA_log/kmsg_LEF2_IrDA.txt
+-'  494  59  ~/Downloads/IrDA_log/kmsg_LEF2_IrDA.txt
+-'  480  89  ~/Downloads/IrDA_log/kmsg_LEF2_IrDA.txt
+-'  473  81  ~/Downloads/IrDA_log/kmsg_LEF2_IrDA.txt
+-'  472  64  ~/Downloads/IrDA_log/kmsg_LEF2_IrDA.txt
+-'  349  47  ~/Downloads/IrDA_log/kmsg_LEF2_IrDA.txt
+-'  348  36  ~/Downloads/IrDA_log/kmsg_LEF2_IrDA.txt
+-'  342  47  ~/Downloads/IrDA_log/kmsg_LEF2_IrDA.txt
+-'  341  36  ~/Downloads/IrDA_log/kmsg_LEF2_IrDA.txt
+-'  155  81  ~/Downloads/IrDA_log/kmsg_LEF2_IrDA.txt
+-'  1  0  ~/Downloads/IrDA_log/kmsg_LEF2_IrDA.txt
+-'  2547  0  ~/Downloads/IrDA_log/kmsg_LEF2_IrDA.txt
+-'  122  0  ~/source/lef/8064/LINUX/android/build/core/product_config.mk
+-'  24  4  ~/source/lef/8064/LINUX/android/build/core/__Tag_List__
+-'  2  0  ~/source/lef/8064/LINUX/android/build/core/__Tag_List__
+-'  1  0  ~/source/lef/8064/LINUX/android/build/core/product_config.mk
+-'  102  0  ~/source/mango/acpu/LINUX/android/kernel/drivers/net/irda/msm-sir.c
+-'  5  4  ~/source/mango/acpu/LINUX/android/kernel/drivers/net/irda/__Tag_List__
+-'  2  0  ~/source/mango/acpu/LINUX/android/kernel/drivers/net/irda/__Tag_List__
+-'  1857  4  ~/source/mango/acpu/LINUX/android/kernel/drivers/net/irda/msm-sir.c
+-'  1  0  ~/source/mango/acpu/LINUX/android/kernel/drivers/net/irda/msm-sir.c
+-'  19  0  ~/source/mango/acpu/LINUX/android/kernel/net/irda/msm-sir.c
+-'  6  19  ~/source/mango/acpu/LINUX/android/kernel/net/irda/msm-sir.c
+-'  213  0  ~/source/mango/acpu/LINUX/android/out/target/product/msm8974/root/init.rc
+-'  1  0  ~/source/mango/acpu/LINUX/android/out/target/product/msm8974/root/init.rc
+-'  1  1  ~/source/mango/acpu/LINUX/android/NERD_tree_2
+-'  38  2  ~/source/mango/acpu/LINUX/android/NERD_tree_2
+-'  1  0  ~/source/mango/acpu/LINUX/android/NERD_tree_1
+-'  38  2  ~/source/mango/acpu/LINUX/android/NERD_tree_1
+-'  10  35  ~/source/mango/acpu/LINUX/android/out/target/product/msm8974/root/default.prop
+-'  1  0  ~/source/mango/acpu/LINUX/android/out/target/product/msm8974/root/default.prop
+-'  645  59  ~/source/mango/acpu/LINUX/android/system/core/rootdir/init.rc
+-'  1  0  ~/source/mango/acpu/LINUX/android/system/core/rootdir/init.rc
+-'  80  4  ~/source/lef/8064/LINUX/android/device/qcom/common/rootdir/etc/init.qcom.rc
+-'  69  0  ~/source/lef/8064/LINUX/android/device/qcom/common/rootdir/etc/init.qcom.rc
+-'  55  4  ~/source/lef/8064/LINUX/android/device/qcom/common/rootdir/etc/init.qcom.rc
+-'  1  0  ~/source/lef/8064/LINUX/android/device/qcom/common/rootdir/etc/init.qcom.rc
+-'  164  0  ~/source/mango/acpu/LINUX/android/device/qcom/common/rootdir/etc/init.qcom.rc
+-'  87  35  ~/source/mango/acpu/LINUX/android/device/qcom/common/rootdir/etc/init.qcom.rc
+-'  86  21  ~/source/mango/acpu/LINUX/android/device/qcom/common/rootdir/etc/init.qcom.rc
+-'  408  0  ~/source/mango/acpu/LINUX/android/device/qcom/common/rootdir/etc/init.qcom.rc
+-'  80  3  ~/source/mango/acpu/LINUX/android/kernel/net/irda/Kconfig
+-'  1  0  ~/source/mango/acpu/LINUX/android/kernel/net/irda/Kconfig
+-'  1  0  ~/source/mango/acpu/LINUX/android/kernel/net/irda/Makefile
+-'  3  0  ~/source/mango/acpu/LINUX/android/kernel/net/irda/__Tag_List__
+-'  2  0  ~/source/mango/acpu/LINUX/android/kernel/net/irda/__Tag_List__
+-'  938  0  ~/source/mango/acpu/LINUX/android/frameworks/base/services/java/com/android/server/usb/UsbDeviceManager.java
+-'  1  0  ~/ning/task/FRY-JB-PR1-00275/usb
+
+# 文件内的标记历史记录 (从新到旧):
+
+> /etc/resolv.conf
+	"	1	28
+	^	1	29
+	.	1	28
+	+	1	28
+
+> /etc/exports
+	"	1	0
+
+> /etc/network/interfaces
+	"	1	0
+
+> /etc/NetworkManager/nm-system-settings.conf
+	"	12	32
+	^	12	33
+	.	12	32
+	+	12	32
+
+> ~/ning/task/FRY-JB-PR1-00275/usb.txt
+	"	2348	0
+
+> ~/ning/task/FRY-JB-PR1-00275/kernel4.txt
+	"	403	35
+
+> ~/source/fry/LINUX/android/kernel/drivers/misc/sgi-gru/gruprocfs.c
+	"	195	0
+
+> ~/source/fry/LINUX/android/kernel/__Tag_List__
+	"	3	0
+	.	43	0
+	+	43	0
+
+> ~/source/fry/LINUX/android/kernel/drivers/i2c/chips/bd91401gw.c
+	"	2249	0
+
+> ~/source/fry/LINUX/android/kernel/drivers/__Tag_List__
+	"	87	4
+	.	95	0
+	+	95	0
+
+> ~/ning/task/FRY-JB-PR1-00275/log/usb.txt
+	"	31393	47
+
+> ~/source/fry/LINUX/android/vendor/docomo/mmb/middle/porting/MmbPoSecClkMp/src/MmbPoSecClkMp.c
+	"	66	0
+
+> ~/source/fry/LINUX/android/vendor/__Tag_List__
+	"	16	4
+	.	18	0
+	+	18	0
+
+> ~/ning/task/FRY-JB-PR1-00275/init.logcat.sh
+	"	32	0
+	^	32	43
+	.	32	42
+	+	33	52
+	+	32	42
+	+	33	53
+	+	32	42
+
+> ~/ning/task/FRY-JB-PR1-00275/__Tag_List__
+	"	3	0
+	.	4	0
+	+	7	0
+	+	4	0
+
+> ~/ning/task/FRY-JB-PR1-00275/usb_logcat.txt
+	"	780	0
+
+> ~/ning/task/FRY-JB-PR1-00275/usb
+	"	1	0
+
+> ~/ning/task/FRY-JB-PR1-00275/logcat1.txt
+	"	166	69
+
+> ~/source/fry/LINUX/android/vendor/docomo/mmb/Obfuscated_porting.mk
+	"	18	0
+
+> ~/source/fry/LINUX/android/__Tag_List__
+	"	3	0
+	.	4	0
+	+	4	0
+
+> ~/source/mango/acpu/LINUX/android/kernel/drivers/usb/host/Kconfig
+	"	51	0
+
+> ~/source/mango/acpu/LINUX/android/kernel/drivers/usb/core/hcd-pci.c
+	"	218	0
+
+> ~/source/mango/acpu/LINUX/android/kernel/drivers/usb/__Tag_List__
+	"	34	4
+	.	49	0
+	+	49	0
+
+> ~/ning/task/FRY-JB-PR1-00275/kernel5.txt
+	"	135	35
+
+> ~/ning/task/FRY-JB-PR1-00275/kernel2.txt
+	"	404	0
+
+> ~/ning/task/FRY-JB-PR1-00275/kernel3.txt
+	"	76	9
+
+> ~/ning/task/FRY-JB-PR1-00275/kernel1.txt
+	"	1035	55
+
+> ~/ning/task/AD13-2nd-PR1-00188/config_feature_ncmc_irda.txt
+	"	43	51
+	^	43	52
+	.	110	5
+	+	95	0
+	+	106	0
+	+	77	0
+	+	6	5
+	+	9	0
+	+	14	0
+	+	18	0
+	+	29	0
+	+	41	0
+	+	29	0
+	+	47	0
+	+	57	0
+	+	61	0
+	+	63	0
+	+	66	0
+	+	68	0
+	+	70	0
+	+	68	0
+	+	66	0
+	+	72	0
+	+	75	0
+	+	78	0
+	+	96	0
+	+	100	0
+	+	106	0
+	+	107	0
+	+	9	5
+	+	13	5
+	+	9	6
+	+	18	6
+	+	29	5
+	+	41	4
+	+	46	4
+	+	56	5
+	+	61	5
+	+	67	0
+	+	64	6
+	+	95	6
+	+	99	6
+	+	106	6
+	+	110	5
+
+> ~/ning/task/AD13-2nd-PR1-00188/logcat_lef.txt
+	"	5948	31
+
+> ~/ning/task/AD13-2nd-PR1-00188/logcat_13_2nd.txt
+	"	2202	60
+
+> ~/ning/task/AD13-2nd-PR1-00188/logcat12.txt
+	"	1453	20
+
+> ~/ning/task/AD13-2nd-PR1-00188/logcat_lef_2.txt
+	"	5183	60
+
+> ~/ning/task/AD13-2nd-PR1-00188/logcat_lef_3.txt
+	"	9771	48
+
+> ~/ning/task/219/kernel1.txt
+	"	28	48
+
+> ~/ning/task/AD13-2nd-PR1-00188/logcat13.txt
+	"	4009	1
+	^	4009	2
+	.	4009	0
+	+	4009	0
+
+> ~/source/lef/8064/LINUX/android/frameworks/base/services/java/com/android/server/NetworkManagementService.java
+	"	102	0
+
+> ~/source/lef/8064/LINUX/android/__Tag_List__
+	"	16	4
+	.	166	0
+	+	331	0
+	+	166	0
+
+> ~/source/mango/acpu/LINUX/android/kernel/arch/arm/mach-msm/Makefile
+	"	292	0
+
+> ~/source/mango/acpu/LINUX/android/kernel/arch/arm/mach-msm/__Tag_List__
+	"	8	4
+	.	9	0
+	+	50	0
+	+	9	0
+
+> ~/source/mango/acpu/LINUX/android/kernel/Makefile
+	"	246	0
+
+> ~/source/mango/acpu/LINUX/android/kernel/__Tag_List__
+	"	5	4
+	.	202	0
+	+	3070	0
+	+	3043	0
+	+	2160	0
+	+	1467	0
+	+	562	0
+	+	202	0
+
+> ~/source/mango/acpu/LINUX/android/kernel/arch/arm/Kconfig
+	"	2358	0
+
+> ~/source/mango/acpu/LINUX/android/kernel/arch/arm/Makefile
+	"	269	0
+
+> ~/source/mango/acpu/LINUX/android/kernel/arch/arm/__Tag_List__
+	"	28	4
+	.	33	0
+	+	33	0
+
+> ~/source/mango/acpu/LINUX/android/kernel/arch/arm/mach-msm/Kconfig
+	"	225	0
+
+> ~/source/mango/acpu/LINUX/android/kernel/arch/arm/mach-msm/board-8974.c
+	"	246	0
+
+> ~/ning/task/219/kernel_n.txt
+	"	1174	24
+
+> ~/ning/task/219/kernel_y.txt
+	"	769	41
+
+> ~/ning/task/219/kernel3.txt
+	"	1007	28
+
+> ~/ning/task/AD13-2nd-PR1-00188/kernel11.txt
+	"	411	28
+
+> ~/ning/task/AD13-2nd-PR1-00188/kernel14.txt
+	"	6233	0
+
+> ~/source/mango/acpu/LINUX/android/kernel/net/core/dev.c
+	"	5117	0
+	^	5109	22
+	.	5109	0
+	+	4805	0
+	+	5109	0
+
+> ~/source/lef/8064/LINUX/android/kernel/arch/arm/mach-msm/clock-8974.c
+	"	30	0
+
+> ~/source/mango/acpu/LINUX/android/kernel/arch/arm/mach-msm/clock-8960.c
+	"	36	0
+
+> ~/source/mango/acpu/LINUX/android/kernel/arch/arm/mach-msm/clock-8974.c
+	"	5701	0
+
+> ~/source/mango/acpu/LINUX/android/kernel/arch/arm/configs/msm8974_LEF2_defconfig
+	"	576	0
+
+> ~/source/lef/8064/LINUX/android/kernel/drivers/net/irda/msm-sir.c
+	"	1867	0
+
+> ~/source/lef/8064/LINUX/android/kernel/drivers/net/irda/__Tag_List__
+	"	93	4
+	.	98	0
+	+	195	0
+	+	98	0
+
+> ~/source/lef/8064/LINUX/android/kernel/drivers/net/irda/irtty-sir.c
+	"	430	0
+
+> ~/source/lef/8064/LINUX/android/kernel/drivers/net/irda/sir_dev.c
+	"	405	15
+
+> ~/source/lef/8064/LINUX/android/kernel/drivers/net/irda/sir-dev.h
+	"	137	17
+
+> ~/source/mango/acpu/LINUX/android/vendor/docomo/apps/libOBjectEXchange/src/IrObexCommCtrlOpe.c
+	"	339	0
+	^	606	37
+	.	606	0
+	+	218	0
+	+	606	0
+
+> ~/source/mango/acpu/LINUX/android/__Tag_List__
+	"	41	4
+	.	46	0
+	+	201	0
+	+	92	0
+	+	47	0
+	+	47	0
+	+	47	0
+	+	47	0
+	+	47	0
+	+	47	0
+	+	47	0
+	+	47	0
+	+	46	0
+
+> ~/source/mango/acpu/LINUX/android/vendor/ncmc/proprietary/master/libs/irda/include/irdrv.h
+	"	18	0
+
+> ~/source/mango/acpu/LINUX/android/kernel/include/net/irda/irdrv.h
+	"	17	0
+
+> ~/source/mango/acpu/LINUX/android/bionic/libc/include/termios.h
+	"	51	23
+
+> ~/source/mango/acpu/LINUX/android/bionic/libc/kernel/arch-arm/asm/ioctls.h
+	"	22	0
+
+> ~/source/mango/acpu/LINUX/android/vendor/docomo/apps/libOBjectEXchange/src/IrObexSocketImpl.c
+	"	215	0
+	^	218	75
+	.	218	74
+	+	218	74
+
+> ~/source/mango/acpu/LINUX/android/vendor/docomo/apps/libOBjectEXchange/src/__Tag_List__
+	"	19	4
+	.	36	0
+	+	292	0
+	+	292	0
+	+	292	0
+	+	292	0
+	+	291	0
+	+	256	0
+	+	221	0
+	+	177	0
+	+	177	0
+	+	177	0
+	+	177	0
+	+	177	0
+	+	177	0
+	+	177	0
+	+	177	0
+	+	177	0
+	+	177	0
+	+	177	0
+	+	177	0
+	+	176	0
+	+	141	0
+	+	106	0
+	+	72	0
+	+	72	0
+	+	72	0
+	+	72	0
+	+	71	0
+	+	37	0
+	+	37	0
+	+	37	0
+	+	37	0
+	+	37	0
+	+	37	0
+	+	36	0
+
+> /usr/include/bits/ioctls.h
+	"	36	0
+
+> ~/source/mango/acpu/LINUX/android/vendor/ncmc/proprietary/master/libs/NFC/nfcdaemon/nfcdaemon.c
+	"	74	0
+
+> ~/source/mango/acpu/LINUX/android/vendor/ncmc/proprietary/master/libs/NFC/nfcdaemon/__Tag_List__
+	"	31	4
+	.	38	0
+	+	75	0
+	+	38	0
+
+> ~/source/mango/acpu/LINUX/android/kernel/net/irda/af_irda.c
+	"	1767	0
+
+> ~/source/mango/acpu/LINUX/android/kernel/net/irda/__Tag_List__
+	"	48	4
+	.	56	0
+	+	57	0
+	+	57	0
+	+	56	0
+
+> /usr/include/linux/sockios.h
+	"	38	0
+
+> ~/source/mango/acpu/LINUX/android/kernel/drivers/net/irda/irtty-sir.c
+	"	412	0
+
+> ~/source/mango/acpu/LINUX/android/kernel/drivers/net/irda/__Tag_List__
+	"	26	4
+	.	31	0
+	+	504	0
+	+	432	0
+	+	360	0
+	+	288	0
+	+	216	0
+	+	213	0
+	+	141	0
+	+	103	0
+	+	32	0
+	+	32	0
+	+	31	0
+
+> ~/source/mango/acpu/LINUX/android/kernel/drivers/net/irda/irtty-sir.h
+	"	22	0
+
+> ~/source/mango/acpu/LINUX/android/kernel/drivers/net/irda/sir_dev.c
+	"	312	8
+
+> ~/source/mango/acpu/LINUX/android/kernel/drivers/net/irda/sir-dev.h
+	"	137	26
+
+> ~/source/mango/acpu/LINUX/android/kernel/net/core/__Tag_List__
+	"	320	4
+	.	361	0
+	+	362	0
+	+	362	0
+	+	362	0
+	+	362	0
+	+	362	0
+	+	362	0
+	+	362	0
+	+	362	0
+	+	362	0
+	+	721	0
+	+	362	0
+	+	362	0
+	+	362	0
+	+	362	0
+	+	362	0
+	+	362	0
+	+	361	0
+
+> /usr/include/linux/if.h
+	"	45	0
+
+> /usr/include/asm-generic/errno-base.h
+	"	4	0
+
+> /usr/include/linux/capability.h
+	"	189	0
+
+> ~/source/lef/8064/LINUX/android/kernel/net/core/dev.c
+	"	5123	0
+
+> ~/source/lef/8064/LINUX/android/kernel/net/core/__Tag_List__
+	"	320	4
+	.	361	0
+	+	361	0
+
+> ~/source/lef/8064/LINUX/android/kernel/net/irda/dev.c
+	"	6	19
+	^	6	20
+	.	6	0
+	+	6	0
+
+> ~/source/lef/8064/LINUX/android/kernel/drivers/net/irda/dev.c
+	"	7	1
+	^	7	2
+	.	7	1
+	+	6	22
+	+	7	1
+
+> ~/source/mango/acpu/LINUX/android/system/core/rootdir/ueventd.rc
+	"	100	0
+	^	24	30
+	.	118	0
+	+	13	9
+	+	25	9
+	+	118	0
+
+> ~/source/mango/acpu/LINUX/android/kernel/include/linux/capability.h
+	"	548	0
+
+> ~/source/mango/acpu/LINUX/android/kernel/include/linux/__Tag_List__
+	"	108	4
+	.	109	0
+	+	110	0
+	+	110	0
+	+	109	0
+
+> ~/source/mango/acpu/LINUX/android/kernel/include/linux/security.h
+	"	1394	8
+
+> ~/ning/task/AD13-2nd-PR1-00188/kernel13.txt
+	"	820	0
+
+> ~/source/mango/acpu/LINUX/android/kernel/net/core/netpoll.c
+	"	792	2
+
+> ~/ning/task/AD13-2nd-PR1-00188/kernel12.txt
+	"	342	25
+
+> ~/source/mango/acpu/LINUX/android/kernel/net/irda/irnet/irnet_ppp.c
+	"	152	0
+
+> ~/source/mango/acpu/LINUX/android/kernel/drivers/platform/msm/qpnp-pwm.c
+	"	494	0
+
+> ~/source/mango/acpu/LINUX/android/kernel/drivers/platform/msm/__Tag_List__
+	"	140	4
+	.	174	0
+	+	174	0
+
+> ~/source/mango/acpu/LINUX/android/kernel/drivers/net/irda/Makefile
+	"	24	0
+
+> /usr/include/sys/socket.h
+	"	190	0

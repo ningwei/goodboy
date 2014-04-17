@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/kitten/jeffy-vim-read-only/vim/syntax/c'
+let g:netrw_dirhist_2='/home/liuzhenkun/.vim'
+let g:netrw_dirhist_3='/home/liuzhenkun/ning/hostdriver/13-2nd_2'
+let g:netrw_dirhist_4='/home/liuzhenkun/source/mango/acpu/LINUX/android/out/target/product/msm8974/root'
+let g:netrw_dirhist_5='/home/liuzhenkun/bin'
+let g:netrw_dirhist_6='/home/liuzhenkun/ning/svn/Mango'
